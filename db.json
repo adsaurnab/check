@@ -1,0 +1,20 @@
+{
+"check":[
+    {
+      "name": "Sunday",
+      "id": "1",       
+    },
+    {
+      "name": "wednesday",
+      "id": "2",       
+    },
+    {
+      "name": "tuesday",
+      "id": "3",       
+    },
+    {
+      "name": "monday",
+      "id": "4",       
+    },
+]
+}
